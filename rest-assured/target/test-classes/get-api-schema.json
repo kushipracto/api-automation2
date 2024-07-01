@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "base": { "type": "string" },
+    "name": { "type": "string" }
+  },
+  "required": ["base", "name"]
+}
